@@ -41,6 +41,16 @@ h2 {
     padding-left: 7%;
 }
 
+.tagline {
+    background-color: #42A1BF;
+    padding: 20px;
+    margin-top: 40px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 300;
+    color: white;
+}
+
 
 .progress {    
     font-size: 1.2em;
